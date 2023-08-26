@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <UserSecretsId>92724e3c-e6f4-40c9-b096-15cce5eb979e</UserSecretsId>
   </PropertyGroup>
 
 	<ItemGroup>
@@ -25,5 +26,6 @@
 	    <Link>.dockerignore</Link>
 	  </Content>
 	</ItemGroup>
+
 
 </Project>
